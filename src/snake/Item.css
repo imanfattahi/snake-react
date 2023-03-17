@@ -1,0 +1,64 @@
+.item, .food, .snake {   
+    text-align: center;
+    line-height: 33px;    
+}
+
+.item {
+    border: 1px solid #6c9c38;
+    background-color: #3c9a10;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.food {    
+    background-image: url('/src/images/rat.png');   
+}
+
+.snake {   
+    color: white;
+}
+
+.block {
+    background-image: url('/src/images/eagle.png');    
+}
+
+.snake.head {
+    background-image: url('/src/images/snake/head.png');    
+}
+
+.snake.body {
+    background-image: url('/src/images/snake/body.png');
+}
+
+.snake.tail {
+    background-image: url('/src/images/snake/tail.png');
+}
+
+
+.block {
+    animation: moverY 1s infinite alternate;
+}
+
+@keyframes moverY {
+    0% {
+        transform: translateY(0);
+    }
+    100% {
+        transform: translateY(3px);
+    }
+}
+
+
+.food {
+    animation: moverX 1s infinite alternate;
+}
+
+@keyframes moverX {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(3px);
+    }
+}
