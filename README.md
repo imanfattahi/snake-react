@@ -4,11 +4,11 @@
 
 ## Screenshots
 
-[Default theme screen shot link](https://i.ibb.co/hd62z2P/Screen-Shot-2023-03-16-at-6-24-09-PM.png)
-![Default theme screen shot](https://i.ibb.co/hd62z2P/Screen-Shot-2023-03-16-at-6-24-09-PM.pngg)
+[Screenshot 1](https://i.ibb.co/hd62z2P/Screen-Shot-2023-03-16-at-6-24-09-PM.png)
+![Screenshot 1](https://i.ibb.co/hd62z2P/Screen-Shot-2023-03-16-at-6-24-09-PM.pngg)
 
-[Default theme screen shot link](https://i.ibb.co/37jZbvC/Screen-Shot-2023-03-16-at-6-24-16-PM.png)
-![Default theme screen shot](https://i.ibb.co/37jZbvC/Screen-Shot-2023-03-16-at-6-24-16-PM.png)
+[Screenshot 2](https://i.ibb.co/37jZbvC/Screen-Shot-2023-03-16-at-6-24-16-PM.png)
+![Screenshot 2](https://i.ibb.co/37jZbvC/Screen-Shot-2023-03-16-at-6-24-16-PM.png)
 
 ## Available Scripts
 
